@@ -8,7 +8,8 @@ public class GG_JumpJumpBG : MonoBehaviour
 
     private bool isStart = false;
 
-    public bool Start
+
+    public bool MoveStart
     {
         get { return isStart; }
         set { isStart = value; }
